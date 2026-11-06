@@ -2,7 +2,7 @@
 
 Live site: https://wzn0219.github.io/
 
-A static English academic homepage with a personal photograph, education, internship experience and publications. The biography is intentionally blank. Publication entries remain placeholders.
+A static English academic homepage with a personal photograph, education, internship experience and publications. The biography is intentionally blank. Publications contains ATOM-Bench; Projects contains the Liber-0 technical report.
 
 ## Education
 
@@ -21,3 +21,10 @@ Edit index.html for content and assets/style.css for styling. Open index.html in
 - BAAI: Vision-Language-Action Models, Jan2026-May2026.
 
 Dates and topics are supplied by the site owner.
+
+## Publications and projects
+
+- ATOM-Bench: https://arxiv.org/abs/2606.16826 ; project https://flageval-baai.github.io/AtomBenchPage/ .
+- Liber-0 technical report: https://www.liberai.com/blog/liber0/ .
+
+Links, titles and the ATOM-Bench author order were checked against the primary pages on2026-11-06. No individual contribution statement has been added for Liber-0.

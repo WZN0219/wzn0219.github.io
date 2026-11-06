@@ -8,3 +8,6 @@ Emblems identify educational affiliations. Their original colors and proportions
 
 - liberai-logo.svg: official LiberAI website header, https://www.liberai.com/image/common/logo-figma.svg .
 - baai-logo.png: official BAAI website header, https://www.baai.ac.cn/img/logo.png . The original transparent header mark is rendered in blue using a CSS color filter, as requested by the site owner; no dark background panel. Blue BAAI wordmark reference: official organization page https://huggingface.co/BAAI .
+
+- atom-bench-overview.jpg: official ATOM-Bench project overview, https://flageval-baai.github.io/AtomBenchPage/assets/overview.jpg ; paper https://arxiv.org/abs/2606.16826 .
+- liber0-cover.webp: official Liber-0 launch cover, "2.2M+ HOURS OF HUMAN EXPERIENCE", https://www.liberai.com/blog/liber0/assets/optimized-images/liber0-launch-cover-11s-20261104-poster-920882e9828a.webp ; report https://www.liberai.com/blog/liber0/ .
