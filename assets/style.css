@@ -42,7 +42,7 @@ h1 { font: 400 clamp(46px, 6vw, 68px)/1.07 Georgia, "Times New Roman", serif; le
 .education-meta { display: flex; align-items: center; flex-wrap: wrap; gap: 8px 18px; margin-bottom: 5px; }
 .degree-label { color: var(--accent); font-size: 10px; letter-spacing: 1.2px; text-transform: uppercase; font-weight: 600; }
 .education-date { color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; white-space: nowrap; margin: 0; justify-self: end; }
-.education-copy h3 { font-size: 24px; line-height: 1.35; letter-spacing: -.3px; font-weight: 600; margin-bottom: 4px; }
+.education-copy h3 { font-size: 18px; line-height: 1.35; letter-spacing: -.3px; font-weight: 600; margin-bottom: 4px; }
 .education-major { font-size: 14px; line-height: 1.6; color: var(--muted); text-align: center; margin: 0; }
 .experience-row { display: grid; grid-template-columns: 145px minmax(0, 1fr); gap: 28px; padding: 20px 0; }
 .experience-row + .experience-row { border-top: 1px solid var(--line); }
@@ -73,7 +73,7 @@ footer { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16
   .university-logo { grid-row: span 2; }
   .education-major { grid-column: 2 / -1; grid-row: 2; text-align: left; }
   .education-date { grid-column: 3; grid-row: 1; }
-  .education-copy h3 { font-size: 22px; }
+  .education-copy h3 { font-size: 18px; }
   .site-header, main, footer { padding-inline: 27px; }
   .hero { grid-template-columns: minmax(0, 1fr) 190px; gap: 35px; padding-block: 38px; }
   .profile-photo { width: 190px; }
@@ -99,7 +99,7 @@ footer { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16
   .education-meta { gap: 4px 12px; }
   .degree-label { font-size: 9px; letter-spacing: .7px; }
   .education-date { font-size: 11px; grid-column: 2; grid-row: 3; justify-self: end; }
-  .education-copy h3 { font-size: 20px; }
+  .education-copy h3 { font-size: 16px; }
   .education-major { font-size: 12px; line-height: 1.6; grid-column: 2; }
   .experience-row { grid-template-columns: 1fr; gap: 6px; padding-block: 17px; }
   .date { font-size: 9px; }
