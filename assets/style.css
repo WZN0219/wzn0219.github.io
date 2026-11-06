@@ -34,14 +34,14 @@ h1 { font: 400 clamp(46px, 6vw, 68px)/1.07 Georgia, "Times New Roman", serif; le
 .section-heading { display: flex; align-items: baseline; gap: 16px; margin-bottom: 24px; }
 .section-heading h2 { margin: 0; font: 400 29px/1.3 Georgia, "Times New Roman", serif; letter-spacing: -.7px; }
 .section-heading > span { order: -1; font-size: 10px; letter-spacing: 1px; color: var(--accent); font-variant-numeric: tabular-nums; }
-.education-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
-.education-row { display: grid; grid-template-columns: 56px minmax(0, 1fr); align-items: center; gap: 23px; padding: 22px 26px; background: var(--surface); border: 1px solid var(--line); border-radius: 9px; }
+.education-grid { display: grid; grid-template-columns: 1fr; gap: 14px; }
+.education-row { display: grid; grid-template-columns: 56px minmax(0, 1fr) auto; align-items: center; gap: 23px; padding: 22px 26px; background: var(--surface); border: 1px solid var(--line); border-radius: 9px; }
 .education-row + .education-row { margin-top: 0; }
 .university-logo { display: block; width: 56px; height: 56px; }
 .university-logo img { display: block; width: 56px; height: 56px; object-fit: contain; }
 .education-meta { display: flex; align-items: center; flex-wrap: wrap; gap: 8px 18px; margin-bottom: 5px; }
 .degree-label { color: var(--accent); font-size: 10px; letter-spacing: 1.2px; text-transform: uppercase; font-weight: 600; }
-.education-date { color: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.education-date { color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; white-space: nowrap; margin: 0; justify-self: end; }
 .education-copy h3 { font-size: 18px; line-height: 1.35; letter-spacing: -.3px; font-weight: 600; margin-bottom: 4px; }
 .education-copy p { font-size: 13px; color: var(--muted); margin: 0; }
 .experience-row { display: grid; grid-template-columns: 145px minmax(0, 1fr); gap: 28px; padding: 20px 0; }
@@ -88,11 +88,12 @@ footer { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16
   .section { padding-block: 26px 28px; }
   .section-heading { gap: 12px; margin-bottom: 20px; }
   .section-heading h2 { font-size: 26px; }
-  .education-row { grid-template-columns: 44px minmax(0, 1fr); gap: 16px; padding: 18px 16px; }
+  .education-row { grid-template-columns: 44px minmax(0, 1fr); gap: 8px 16px; padding: 18px 16px; }
+  .university-logo { grid-row: span 2; }
   .university-logo, .university-logo img { width: 44px; height: 44px; }
   .education-meta { gap: 4px 12px; }
   .degree-label { font-size: 9px; letter-spacing: .7px; }
-  .education-date { font-size: 10px; }
+  .education-date { font-size: 11px; grid-column: 2; justify-self: end; }
   .education-copy h3 { font-size: 16px; }
   .education-copy p { font-size: 12px; line-height: 1.6; }
   .experience-row { grid-template-columns: 1fr; gap: 6px; padding-block: 17px; }
