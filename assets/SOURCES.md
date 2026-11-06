@@ -5,3 +5,6 @@
 - pku-emblem.png: official Peking University red emblem, https://vim.pku.edu.cn/xzzq/ , circular emblem archive https://vim.pku.edu.cn/docs/20240527144201516364.zip .
 
 Emblems identify educational affiliations. Their original colors and proportions are retained.
+
+- liberai-logo.svg: official LiberAI website header, https://www.liberai.com/image/common/logo-figma.svg .
+- baai-logo.png: official BAAI website header, https://www.baai.ac.cn/img/logo.png . The original white logo is displayed on a dark background.
