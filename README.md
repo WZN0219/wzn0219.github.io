@@ -17,7 +17,7 @@ Edit index.html for content and assets/style.css for styling. Open index.html in
 
 ## Internships
 
-- LiberAI: WAM Model Pretraining, May2026-Dec2026.
-- BAAI: VLA Algorithms, Jan2026-May2026.
+- LiberAI: World Action Model Pretraining, May2026-Dec2026.
+- BAAI: Vision-Language-Action Models, Jan2026-May2026.
 
 Dates and topics are supplied by the site owner.
