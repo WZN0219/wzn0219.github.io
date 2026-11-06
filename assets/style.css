@@ -43,7 +43,7 @@ h1 { font: 400 clamp(46px, 6vw, 68px)/1.07 Georgia, "Times New Roman", serif; le
 .degree-label { color: var(--accent); font-size: 10px; letter-spacing: 1.2px; text-transform: uppercase; font-weight: 600; }
 .education-date { color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; white-space: nowrap; margin: 0; justify-self: end; }
 .education-copy h3 { font-size: 18px; line-height: 1.35; letter-spacing: -.3px; font-weight: 600; margin-bottom: 4px; }
-.education-major { font-size: 14px; white-space: nowrap; line-height: 1.6; color: var(--muted); text-align: left; margin: 0; }
+.education-major { width: min(100%, 34ch); justify-self: center; font-size: 14px; white-space: nowrap; line-height: 1.6; color: var(--muted); text-align: left; margin: 0; }
 .experience-row { display: grid; grid-template-columns: 145px minmax(0, 1fr); gap: 28px; padding: 20px 0; }
 .experience-row + .experience-row { border-top: 1px solid var(--line); }
 .date { padding-top: 4px; font-size: 10px; letter-spacing: .7px; color: var(--muted); }
@@ -102,7 +102,7 @@ footer { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16
   .university-logo, .university-logo img { width: 44px; height: 44px; }
   .education-date { font-size: 11px; grid-column: 2; grid-row: 3; justify-self: end; }
   .education-copy h3 { font-size: 16px; }
-  .education-major { font-size: 12px; white-space: normal; grid-column: 2; grid-row: 2; }
+  .education-major { width: 100%; justify-self: stretch; font-size: 12px; white-space: normal; grid-column: 2; grid-row: 2; }
 }
 @media (max-width: 540px) {
   .site-header, main, footer { padding-inline: 22px; }
