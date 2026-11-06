@@ -31,6 +31,8 @@ Links, titles and the ATOM-Bench author order were checked against the primary p
 
 ## Confirmed recognition and role
 
-- ATOM-Bench: CoRL Spotlight, with a yellow star in the publication entry (confirmed by the site owner).
+- ATOM-Bench: CoRL2026 Spotlight, with a yellow star in the publication entry (confirmed by the site owner).
 - FlagEval-Robo: Project Lead for FlagEval-Robo-Real (confirmed by the site owner); the project title is FlagEval-Robo. Platform: https://flagevalrobo.baai.ac.cn/home .
 - Public platform description: https://hub.baai.ac.cn/view/57324 .
+
+CoRL2026 Spotlight recognition appears below the ATOM-Bench thumbnail. FlagEval-Robo uses a robot-background cover with English platform headings.

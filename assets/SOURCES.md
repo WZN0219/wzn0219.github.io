@@ -11,3 +11,5 @@ Emblems identify educational affiliations. Their original colors and proportions
 
 - atom-bench-overview.jpg: official ATOM-Bench project overview, https://flageval-baai.github.io/AtomBenchPage/assets/overview.jpg ; paper https://arxiv.org/abs/2606.16826 .
 - liber0-cover.webp: official Liber-0 launch cover, "2.2M+ HOURS OF HUMAN EXPERIENCE", https://www.liberai.com/blog/liber0/assets/optimized-images/liber0-launch-cover-11s-20261104-poster-920882e9828a.webp ; report https://www.liberai.com/blog/liber0/ .
+
+- flageval-robo-cover.jpg: cover composed with an actual frame at2seconds from the public FlagEval-Robo homepage background video https://arena.flageval.net/user-assets/20260421/da7bd5da34d3456d990c01239d54688c.mp4 , with English platform headings rendered in HTML. Platform: https://flagevalrobo.baai.ac.cn/home .
