@@ -6,10 +6,10 @@ A static English academic homepage with a personal photograph, education, intern
 
 ## Education
 
-- Hunan University, Electronic Science and Technology, 2020-2024.
-- Peking University, Communication and Information Systems, 2024-2027.
+- Peking University, Master's student in Communication and Information Systems, 2024-2027.
+- Hunan University, Bachelor's degree in Electronic Science and Technology, 2020-2024.
 
-Degree titles are omitted pending confirmation. Official emblem sources are documented in assets/SOURCES.md.
+Education appears in reverse chronological order. Official emblem sources are documented in assets/SOURCES.md.
 
 ## Edit and preview
 
