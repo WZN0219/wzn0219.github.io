@@ -28,3 +28,9 @@ Dates and topics are supplied by the site owner.
 - Liber-0 technical report: https://www.liberai.com/blog/liber0/ .
 
 Links, titles and the ATOM-Bench author order were checked against the primary pages on2026-11-06. No individual contribution statement has been added for Liber-0.
+
+## Confirmed recognition and role
+
+- ATOM-Bench: CoRL Spotlight, with a yellow star in the publication entry (confirmed by the site owner).
+- FlagEval-Robo: Project Lead for FlagEval-Robo-Real (confirmed by the site owner); the project title is FlagEval-Robo. Platform: https://flagevalrobo.baai.ac.cn/home .
+- Public platform description: https://hub.baai.ac.cn/view/57324 .
