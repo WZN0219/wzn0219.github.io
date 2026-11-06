@@ -190,3 +190,10 @@ footer { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16
 .project-role strong { color: var(--accent); font-weight: 600; }
 
 @media (max-width: 640px) { .research-media { width: 100%; max-width: 320px; } .publication-venue { width: 100%; } }
+
+/* Direct WeChat contact QR */
+.wechat-contact { width: 200px; margin: 0; text-align: center; }
+.wechat-contact a { display: block; background: #fff; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.wechat-contact img { display: block; width: 100%; height: auto; }
+.wechat-contact figcaption { margin-top: 9px; color: var(--muted); font-size: 12px; }
+@media (max-width: 540px) { .contact .wechat-contact { align-self: center; } }
