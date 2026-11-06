@@ -7,4 +7,4 @@
 Emblems identify educational affiliations. Their original colors and proportions are retained.
 
 - liberai-logo.svg: official LiberAI website header, https://www.liberai.com/image/common/logo-figma.svg .
-- baai-logo.png: official BAAI website header, https://www.baai.ac.cn/img/logo.png . The original white logo is displayed on a dark background.
+- baai-logo.png: official BAAI website header, https://www.baai.ac.cn/img/logo.png . The original transparent header mark is rendered in blue using a CSS color filter, as requested by the site owner; no dark background panel. Blue BAAI wordmark reference: official organization page https://huggingface.co/BAAI .
