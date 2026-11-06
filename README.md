@@ -1,6 +1,6 @@
 # 吴泽楠 / Zenan Wu — 个人主页框架
 
-面向 GitHub Pages 的纯静态主页，无需安装依赖。当前为本地草稿，尚未发布。
+面向 GitHub Pages 的纯静态主页，无需安装依赖。内容仍为待补充的框架；通过 GitHub Pages 发布。
 
 ## 预览
 
@@ -16,4 +16,4 @@
 
 内容编辑 index.html；版式编辑 assets/style.css。方括号均为占位，不代表已确认的信息。公开简历可放入 assets/files/。
 
-目标地址：https://wzn0219.github.io/ 。待内容确认后再推送并开启 GitHub Pages。
+网页地址：https://wzn0219.github.io/ 。修改内容后提交并推送 main 分支，GitHub Pages 会自动更新。
